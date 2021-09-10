@@ -19,7 +19,7 @@ Let’s get some more practice with these concepts!
 6. Create the list cubes using a list comprehension on the single_digits list. Each element of cubes should be an element of single_digits taken to the third power.
 7. Print cubes. Good job!
 
-Script
+[Script](https://github.com/Fran0616/pythonLoopReview/blob/main/forExample.py)
 = 
 
 ```
