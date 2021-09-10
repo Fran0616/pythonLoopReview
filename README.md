@@ -54,3 +54,4 @@ Output
 ```
 Conclusion 
 = 
+In this lesson I learned about how I can use a loop to perform the process of iteration. Programming languages like python implement two types of iteration: indefinite and definite iteration. In indefinite iteration the number of times the loop is executed depends on how many times a condition is met. Indefinite iteration the number of times the loop is executed is defined in advance. In For loop the programmer knows in advance how many times the loop will need to be iterated because we work on a collection of predefined length. 
