@@ -1,15 +1,9 @@
 # pythonLoopReview
 Loop Practice 
 
-Good job! In this lesson, you learned
 
-How to write a for loop.
-How to use range in a loop.
-How to write a while loop.
-What infinite loops are and how to avoid them.
-How to control loops using break and continue.
-How to write elegant loops as list comprehensions.
-Let’s get some more practice with these concepts!
+Task
+=
 
 1. Create a list called single_digits that consists of the numbers 0-9 (inclusive).
 2. Create a for loop that goes through single_digits and prints out each one.
